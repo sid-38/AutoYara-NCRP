@@ -18,9 +18,9 @@
             <version>0.7.3</version>
         </dependency>
 	<dependency>
-	    <groupId>com.github.NeuromorphicComputationResearchProgram</groupId>
+	    <groupId>com.github.sid-38</groupId>
 	    <artifactId>KiloGrams</artifactId>
-	    <version>-78300c4072-1</version>
+	    <version>36b4d89bfc</version>
 	</dependency>
         <dependency>
             <groupId>dk.brics</groupId>
