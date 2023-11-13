@@ -77,6 +77,14 @@ public class SigCandidate
     Set<Integer> coverage;
     double entropy = -1;
 
+    public Set<Integer> getCoverage(){
+        return this.coverage;
+    }
+
+    public AlphabetGram getSignature(){
+        return this.signature;
+    }
+
     @Override
     public boolean equals(Object obj)
     {
