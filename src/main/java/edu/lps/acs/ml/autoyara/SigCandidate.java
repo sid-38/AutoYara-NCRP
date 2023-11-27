@@ -81,6 +81,14 @@ public class SigCandidate
         return this.coverage;
     }
 
+    public double getBfp(){
+      return this.b_fp;
+    }
+
+    public double getMfp(){
+      return this.m_fp;
+    }
+
     public AlphabetGram getSignature(){
         return this.signature;
     }
